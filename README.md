@@ -7,7 +7,7 @@ Includes custom shapes of Rhombus, Rectangle, and TextBox.
 2. Click "Get from VCS" or File->New->Project From Version Control
 3. Insert the following URL:
 ```
-https://github.com/Toooo123/Shapes.git
+https://github.com/Tooo/Shapes.git
 ```
 4. Run MainGUI
 
